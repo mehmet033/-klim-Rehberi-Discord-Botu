@@ -11,7 +11,7 @@ Bot, kullanıcılara her gün rastgele bir çevreci görev gönderir, bu görevl
 - 🔁 **Görev tamamlandığında puan kazanma**
 - 🏆 **Haftalık/aylık sıralamalar**
 - 📚 **İklim bilgisi ve istatistik paylaşımı**
-- 🛠 Komutlarla bilgiye hızlı erişim: `/görev`, `/puan`, `/istatistik`, `/kaynak`
+- 🛠 Komutlarla bilgiye hızlı erişim: (daha bot geliştirilmedi)
 
 ## 👨‍💻 Kullanılan Teknolojiler
 
