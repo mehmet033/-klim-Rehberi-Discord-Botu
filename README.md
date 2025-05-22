@@ -30,3 +30,7 @@ Bot, kullanıcılara her gün rastgele bir çevreci görev gönderir. Kullanıc�
 - Python
 - Discord.py kütüphanesi
 - JSON (puan verisi için)
+
+## Botu Sunucuna Ekle
+
+[Botu ekle](https://discord.com/oauth2/authorize?client_id=1370438561731579934&permissions=8&integration_type=0&scope=bot)
