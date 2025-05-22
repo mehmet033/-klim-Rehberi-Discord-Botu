@@ -10,9 +10,7 @@ Bot, kullanıcılara her gün rastgele bir çevreci görev gönderir. Kullanıc�
 - 🌱 **Günlük çevre dostu görevler** (örneğin: “Bugün musluğu açık bırakmadan diş fırçala”)
 - 🔁 **Görev tamamlandığında puan kazanma**
 - 😞 **Görev yapılmadığında puan kaybı**
-- 🏆 **Haftalık/aylık liderlik sıralamaları**
-- 📚 **İklim bilgisi ve istatistik paylaşımı (komutlarla erişilebilir)**
-- 🛠 **Kolay kullanım için komut sistemi**
+- 🏆 **Liderlik sıralamaları**
 
 ## 🧪 Komutlar
 
